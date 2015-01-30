@@ -1,0 +1,16 @@
+body {
+  margin:0;
+}
+
+h1 {
+  background-color: lightblue;
+  padding: 1em 2em 0.5em 3em;
+  margin: 0;
+  border: 5px dotted #fff;
+  border-radius:10px;
+}
+
+a{
+  background-color: lightgreen;
+  display:block;
+}
